@@ -1,0 +1,12 @@
+CUENTA GMAIL:
+CORREO:jytcomercializadorahn@gmail.com
+CONTRASEÑA:jytsistemas
+
+CUETNA FREEHOSTIA:
+CORREO:jytcomercializadorahn@gmail.com 
+USUARIO: jytsis
+CONTRASEÑA: 25soRwZB3%
+
+NOMBRE BD:jytsis_jytsistema
+USUARIO BD: jytsis_jytsistema
+CONTRASEÑA BD: W5N33Vayo(
